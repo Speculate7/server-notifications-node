@@ -1,6 +1,6 @@
 [
   {
-    "phoneNumber": process.env.MY_NUMBER,
+    "phoneNumber": "+14433105487,
     "name": "Doraj"
   },
   {
